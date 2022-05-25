@@ -12,4 +12,7 @@ services:
         - '8000:8000'
       environment:
         - CHOKIDAR_USEPOLLING=true
-    
+    # host the application to digital ocean domain jenny.com
+
+
+
