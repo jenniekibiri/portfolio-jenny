@@ -1,13 +1,16 @@
 ---
 date: '2019-07-15'
 title: 'Interview Profile'
-github: 'https://github.com/bchiang7/octoprofile'
-external: 'https://octoprofile.now.sh'
+github: ''
+external: ''
 tech:
-  - Next.js
-  - Chart.js
-  - GitHub API
+  - React
+  - Material UI
+  - Node.js
 showInProjects: true
 ---
 
-A nicer look at your GitHub profile and repo stats. Includes data visualizations of your top languages, starred repositories, and sort through your top repos by number of stars, forks, and size.
+Implemented an interview platform, a web app that generates interview tasks and questions for the
+given tech stack and the level of experience of the candidate.
+
+The platform allowed the company to send the interviews to the shortlisted candidates, track if the candidate received the interview tests, and calculate the scores.

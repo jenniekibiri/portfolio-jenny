@@ -64,11 +64,11 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I’m a software engineer specializing in building (and occasionally designing) exceptional
-        digital experiences. Currently, I’m focused on building accessible, human-centered products
-        at{' '}
-        <a href="https://upstatement.com/" target="_blank" rel="noreferrer">
-          Upstatement
+        I’m a software engineer focusing on building web applications and designing rich user
+        interfaces. Currently, I’m focused on building web applications with React,Node.js and ios
+        applications at{' '}
+        <a href="https://thejitu.com/" target="_blank" rel="noreferrer">
+          Kodally
         </a>
         .
       </p>
@@ -79,7 +79,8 @@ const Hero = () => {
       className="email-link"
       href="https://www.linkedin.com/in/jennykibiri/"
       target="_blank"
-      rel="noreferrer">
+      rel="noreferrer"
+    >
       Check out my Full profile
     </a>
   );

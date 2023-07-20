@@ -20,7 +20,8 @@
     "serve": "gatsby serve",
     "clean": "gatsby clean",
     "prepare": "husky install",
-    "lint-staged": "lint-staged"
+    "lint-staged": "lint-staged",
+    "deploy": "scp -r ./public/* jenny@178.62.233.59:/var/www/jennykibiri.codes/html"
   },
   "lint-staged": {
     "*.{js,css,json,md}": [

@@ -2,14 +2,14 @@
 date: '2019-11-12'
 title: 'Travel Firm Website'
 github: ''
-external: 'https://medium.com/stories-from-upstatement/building-a-headless-mobile-app-cms-from-scratch-bab2d17744d9'
+external: 'https://travel-kenya.herokuapp.com/'
 tech:
   - Node
   - Express
-  - Firebase
-  - Vue
-company: 'Upstatement'
+  - React
+
+# company: 'Upstatement'
 showInProjects: true
 ---
 
-Find out how we built a custom headless CMS with Node, Express, and Firebase for a project at Upstatement
+This is a website for a travel firm.Built using node js,html,materialize css and javascript technologies.

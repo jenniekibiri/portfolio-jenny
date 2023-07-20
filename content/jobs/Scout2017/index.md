@@ -1,11 +1,15 @@
 ---
 date: '2017-04-01'
-title: 'Software Developer'
-company: 'The Jitu'
-location: 'Northeastern University'
-range: 'January - June 2017'
-url: 'https://web.northeastern.edu/scout/'
+title: 'Software Developer Intern'
+company: 'The Jitu '
+location: 'Nyeri, Kenya'
+range: 'April - June 2022'
+url: 'https://thejitu.com'
 ---
 
-- Collaborated with a small team of student designers to spearhead a new brand and design system for Scout’s inaugural student-led design conference at Northeastern
-- Worked closely with designers and management team to develop, document, and manage the conference’s marketing website using Jekyll, Sass, and JavaScript
+- Supported the organization in creating an online internal interview tool.
+- Developed Backend API using NodeJs and validated all the data passing through the API using
+  validator middleware.
+- Designed the database, database schemas, and migration scripts following best practices.
+- Developed the User interface for the platform from the provided mock designs using ReactJs and
+  material UI library.

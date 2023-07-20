@@ -2,11 +2,11 @@
 date: '2018-05-14'
 title: 'Software Engineer'
 company: 'Kodally'
-location: 'Boston, MA'
+location: 'Nairobi, Kenya'
 range: 'May 2022 - Present'
-url: 'https://www.upstatement.com/'
+url: 'https://kodally.com'
 ---
 
 - Write modern, performant, maintainable code for a diverse array of client and internal projects
-- Work with a variety of different languages, platforms, frameworks, and content management systems such as JavaScript, TypeScript, Gatsby, React, Craft, WordPress, Prismic, and Netlify
-- Communicate with multi-disciplinary teams of engineers, designers, producers, and clients on a daily basis
+- Collaborate with a diverse team of engineers to build and maintain complex, scalable, and maintainable applications
+- Ios Flutter, React, Nodejs

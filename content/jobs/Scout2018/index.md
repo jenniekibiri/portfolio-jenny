@@ -2,11 +2,15 @@
 date: '2018-04-01'
 title: 'Sofware  Developer'
 company: 'The Jitu'
-location: 'Northeastern University'
-range: 'January - April 2018'
-url: 'https://web.northeastern.edu/scout/'
+location: 'Nyeri Kenya'
+range: 'November 2021 - May 2022'
+url: 'https://thejitu.com'
 ---
 
-- Worked with a team of three designers to build a marketing website and e-commerce platform for [blistabloc](https://blistabloc.com), an ambitious startup originating from Northeastern
-- Helped solidify a brand direction for blistabloc that spans both packaging and web
-- Interfaced with clients on a weekly basis, providing technological expertise
+- Empowered system client site
+
+- Primary designer for empoweredsystems.com, worked (as a part of a 2-person engineering team) as a
+  UI/UX designer and prototyped the UI for the Empowered System website, and met our project timeline
+  (shipping the project to production in 4 weeks)
+- Time Entry Project
+- Developing (as part of a 2-person engineering team) a Time entry project, an application that helps the company manage and automate financial process

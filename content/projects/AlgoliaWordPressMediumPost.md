@@ -2,13 +2,12 @@
 date: '2020-03-27'
 title: 'Chalets & Caviars Wordpress Real Estate Website'
 github: ''
-external: 'https://medium.com/stories-from-upstatement/integrating-algolia-search-with-wordpress-multisite-e2dea3ed449c'
+external: 'https://dev-craftydesign.pantheonsite.io/rent/'
 tech:
-  - Algolia
   - WordPress
   - PHP
-company: 'Upstatement'
+company: 'openclassrooms'
 showInProjects: true
 ---
 
-Building a custom multisite compatible WordPress plugin to build global search with Algolia
+A real estate site for a chalets and caviars agency created using WordPress clients can buy,book or rent chalets
