@@ -9,6 +9,9 @@ RUN yarn install
 
 COPY . .
 
-RUN yarn run build
+# RUN yarn build
 
-CMD ["yarn", "run", "serve"]
+EXPOSE 9000
+
+
+CMD ["npm", "run", "serve"]
